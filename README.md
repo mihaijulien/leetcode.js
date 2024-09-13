@@ -1,1 +1,5 @@
-# lc_js
+# JS Leetcode
+
+```bash
+jest --watch LC100_isSameTree
+```
