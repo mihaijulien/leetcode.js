@@ -1,5 +1,5 @@
 const invertTree = require("./index");
-const { BinarySearchTree } = require("../../utility/utility");
+const { BinarySearchTree } = require("../utility/utility");
 
 test("Inverts tree", () => {
   const BST = new BinarySearchTree();

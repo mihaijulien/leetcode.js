@@ -1,5 +1,5 @@
 const maxDepth = require('./index');
-const { BinarySearchTree } = require('../../utility/utility');
+const { BinarySearchTree } = require('../utility/utility');
 
 test('Works for Binary Trees of with 1, 2, and 3 levels.', () => {
 	const BST = new BinarySearchTree();

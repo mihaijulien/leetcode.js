@@ -1,6 +1,6 @@
 const isValidBST = require('./index');
 
-const { Node, BinarySearchTree } = require('../../utility/utility');
+const { Node, BinarySearchTree } = require('../utility/utility');
 
 test('Returns true for valid BST.', () => {
 	const BST = new BinarySearchTree();

@@ -1,5 +1,5 @@
 const isSameTree = require('./index');
-const { BinarySearchTree } = require('../../utility/utility');
+const { BinarySearchTree } = require('../utility/utility');
 
 
 test('returns true for same trees', () => {

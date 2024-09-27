@@ -1,5 +1,5 @@
 const levelOrder = require('./index');
-const { BinarySearchTree } = require('../../utility/utility');
+const { BinarySearchTree } = require('../utility/utility');
 
 test('Works.', () => {
 	const BST = new BinarySearchTree();

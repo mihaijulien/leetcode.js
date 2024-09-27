@@ -1,5 +1,5 @@
 const lowestCommonAncestor = require("./index");
-const { BinarySearchTree } = require("../../utility/utility");
+const { BinarySearchTree } = require("../utility/utility");
 
 test("Returns lowest common ancestor.", () => {
   const BST = new BinarySearchTree();
